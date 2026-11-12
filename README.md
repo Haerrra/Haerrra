@@ -1,8 +1,7 @@
 # 안녕하세요. 데이터 분석가 강해라입니다 <img src="https://raw.githubusercontent.com/Haerrra/portfolio/main/assets/hi.gif" height="32px">
-
-<br/>
-
 **Product Analytics · Data Products · Analytics Engineering · AI-powered Analytics**
+<br/>
+<br/>
 
 저는 **제품 분석, 데이터 엔지니어링, AI 기반 데이터 제품**의 접점에서 일하는 Product Data Analyst입니다.
 
@@ -20,6 +19,8 @@
 - 🤖 **AI 기반 셀프서브 분석** — LLM Agent와 Text-to-SQL을 활용해 누구나 데이터에 쉽게 접근하고 활용할 수 있는 환경을 만듭니다.
 - 📊 **제품·그로스 분석** — 퍼널, 코호트, 리텐션, 고객 행동 분석으로 제품의 성장 기회를 발굴합니다.
 - 📈 **비즈니스 의사결정 지원** — 예측 및 시뮬레이션 모델을 통해 성장 기회, 가격 전략, 수익성을 검토합니다.
+
+<br/>
 
 ## 🔭 Current Focus
 
@@ -43,7 +44,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-badge&logo=amazonwebservices&logoColor=white)
 
 **Tracking & Product Analytics**<br/>
 ![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)
