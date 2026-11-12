@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/Haerrra/portfolio/main/assets/github_main.png" width="100%">
-
 # 안녕하세요. 데이터 분석가 강해라입니다 <img src="https://raw.githubusercontent.com/Haerrra/portfolio/main/assets/hi.gif" height="32px">
+
+<br/>
 
 **Product Analytics · Data Products · Analytics Engineering · AI-powered Analytics**
 
@@ -8,7 +8,7 @@
 
 복잡한 데이터를 **신뢰할 수 있는 데이터 자산**으로 만들고, **누구나 활용 가능한 분석 도구**를 만들어 **데이터 리터러시를 높이는 일**에 관심이 있습니다.
 
-데이터를 분석하는 것에서 그치지 않고, **문제를 정의하고 데이터 기반 해결책을 제시하여 실제 비즈니스 성과로 연결하는 일**에 관심이 있습니다.
+또한, 단순히 데이터를 분석하는 것에서 그치지 않고, **문제를 정의하고 데이터 기반 해결책을 제시하여 실제 비즈니스 성과로 연결하는 일**에 자신이 있습니다.
 
 <br/>
 
